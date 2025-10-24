@@ -3,7 +3,7 @@
 export const data =[
     {
         id:"1",
-        ColorName:' red',
+        ColorName:' green',
     },
         {
         id:"2",
@@ -16,7 +16,7 @@ export const data =[
     },
             {
         id:"4",
-        ColorName:'black',
+        ColorName:'yellow',
     },
                 {
         id:"5",
